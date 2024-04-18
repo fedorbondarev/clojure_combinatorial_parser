@@ -13,4 +13,4 @@ Supported functions:
 * "ln" - natural logarithm
 * "meansq" - mean square
 
-Usage example in ``example.clj``
+Usage example in [example.clj](https://github.com/fedorbondarev/clojure_combinatorial_parser/blob/main/src/main/clojure/example.clj)
